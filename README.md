@@ -1,6 +1,6 @@
 # Bubbles
 
-https://dreamingincodezh.github.io/collision-detection-bubbles/
+https://zhanghai.github.io/collision-detection-bubbles/
 
 ![Screenshot](art/screenshot.jpg)
 
